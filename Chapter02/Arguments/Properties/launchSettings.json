@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Arguments": {
+      "commandName": "Project",
+      "commandLineArgs": "red yellow 50",
+      "workingDirectory": "C:\\Users\\Dexus\\Desktop\\C#10 & NET6 Exercises\\Chapter02\\Arguments"
+    }
+  }
+}
